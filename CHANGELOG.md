@@ -9,6 +9,8 @@ All notable changes to this project will be documented in this file.
 - Initial project setup.
   - Spring initializer for initial skeleton of maven app.
   - Git initialized, Readme, gitIgnore and change log created. Auto-generated.
-  - Created first few classes for project.
+  - Created classes for project.
     - Shape.java
     - TwoDimensionalShape.java
+    - ThreeDimensionalShape.java
+    - Circle.java
