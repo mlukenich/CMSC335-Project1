@@ -16,3 +16,8 @@ Git info for project found in readme.
     - Square.java
     - Triangle.java
   - Forgot to add name/class, used code assist to generate at top of files.
+  - Added Classes
+    - Sphere.java
+    - Cube.java
+    - Cone.java
+    - Cylinder.java
