@@ -1,9 +1,7 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
-
-## GitHub repo: https://github.com/mlukenich/CMSC335-Project1.git
-## commit log: https://github.com/mlukenich/CMSC335-Project1/activity
+Git info for project found in readme.
 
 ## 2025-10-24
 - Initial project setup.
@@ -17,3 +15,4 @@ All notable changes to this project will be documented in this file.
     - Rectangle.java
     - Square.java
     - Triangle.java
+  - Forgot to add name/class, used code assist to generate at top of files.
