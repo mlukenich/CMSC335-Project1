@@ -24,3 +24,4 @@ Git info for project found in readme.
 
 ## 2025-10-27
 - Added the ShapeMenu.java class
+- Added Torus.java, version change on spring boot and java for troubleshooting - may upate again
