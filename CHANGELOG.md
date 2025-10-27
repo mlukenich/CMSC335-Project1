@@ -21,3 +21,6 @@ Git info for project found in readme.
     - Cube.java
     - Cone.java
     - Cylinder.java
+
+## 2025-10-27
+- Added the ShapeMenu.java class
