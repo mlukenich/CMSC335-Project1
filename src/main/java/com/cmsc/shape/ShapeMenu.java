@@ -118,7 +118,7 @@ public class ShapeMenu {
         double value = -1;
         while(value < 0) {
             try {
-                System.out.println(prompt)
+                System.out.println(prompt);
                                 value = scanner.nextDouble();
                 if (value <= 0) {
                     System.out.println("Error: Please enter a positive number.");
