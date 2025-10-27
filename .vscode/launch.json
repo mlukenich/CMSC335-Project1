@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ShapeMenu<shape>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cmsc.shape.ShapeMenu",
+            "projectName": "shape",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
