@@ -1,3 +1,7 @@
+/**
+ * Name: Matthew Lukenich
+ * Class: CMSC335
+ */
 package com.cmsc.shape;
 
 public class Torus extends ThreeDimensionalShape {
