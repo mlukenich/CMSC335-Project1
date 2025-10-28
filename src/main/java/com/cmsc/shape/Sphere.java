@@ -37,8 +37,8 @@ public class Sphere extends  ThreeDimensionalShape {
     }
 
     /**
-     * Calculate and return area
-     * @return area
+     * Calculate and return volume
+     * @return volume
      */
     @Override
     public double getVolume() {

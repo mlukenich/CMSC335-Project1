@@ -13,7 +13,7 @@ package com.cmsc.shape;
  */
 public abstract class Shape {
 
-    public int numberOfDimenions;
+    private int numberOfDimenions;
 
     /**
      * Constructor

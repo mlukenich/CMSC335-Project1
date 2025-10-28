@@ -1,6 +1,8 @@
 /**
  * Name: Matthew Lukenich
  * Class: CMSC335
+ * File: Torus.java
+ * Date: 10/28/2025
  */
 package com.cmsc.shape;
 
@@ -15,6 +17,38 @@ public class Torus extends ThreeDimensionalShape {
      */
     public Torus(double majorRadius, double minorRadius) {
         this.majorRadius = majorRadius;
+        this.minorRadius = minorRadius;
+    }
+
+    /**
+     * Getter for major radius
+     * @return majorRadius
+     */
+    public double getMajorRadius() {
+        return majorRadius;
+    }
+
+    /**
+     * Setter for major radius
+     * @param majorRadius
+     */
+    public void setMajorRadius(double majorRadius) {
+        this.majorRadius = majorRadius;
+    }
+
+    /**
+     * Getter for minor radius
+     * @return minorRadius
+     */
+    public double getMinorRadius() {
+        return minorRadius;
+    }
+
+    /**
+     * Setter for minor radius
+     * @param minorRadius
+     */
+    public void setMinorRadius(double minorRadius) {
         this.minorRadius = minorRadius;
     }
 
